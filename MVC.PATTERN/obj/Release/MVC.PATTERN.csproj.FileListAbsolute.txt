@@ -1,0 +1,4 @@
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\bin\Release\MVC.PATTERN.exe.config
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\obj\Release\MVC.PATTERN.View.UsersView.resources
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\obj\Release\MVC.PATTERN.Properties.Resources.resources
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\obj\Release\MVC.PATTERN.csproj.GenerateResource.Cache

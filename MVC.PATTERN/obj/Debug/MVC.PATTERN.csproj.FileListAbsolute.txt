@@ -1,0 +1,14 @@
+C:\Users\jamhari\AppData\Local\Temporary Projects\MVC.PATTERN\bin\Debug\MVC.PATTERN.exe.config
+C:\Users\jamhari\Documents\Visual Studio 2012\Projects\MVC.PATTERN\MVC.PATTERN\bin\Debug\MVC.PATTERN.exe.config
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\bin\Debug\MVC.PATTERN.exe.config
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\bin\Debug\MVC.PATTERN.exe
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\bin\Debug\MVC.PATTERN.pdb
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\obj\Debug\MVC.PATTERN.csprojResolveAssemblyReference.cache
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\obj\Debug\MVC.PATTERN.Properties.Resources.resources
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\obj\Debug\MVC.PATTERN.csproj.GenerateResource.Cache
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\obj\Debug\MVC.PATTERN.exe
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\obj\Debug\MVC.PATTERN.pdb
+D:\Latihan\visual studio 2012\c#\MVC.PATTERN\MVC.PATTERN\obj\Debug\MVC.PATTERN.View.UsersView.resources
+D:\Latihan\visual studio 2012\public\C# MVC\MVC.PATTERN\bin\Debug\MVC.PATTERN.exe.config
+D:\Latihan\visual studio 2012\public\C# MVC\MVC.PATTERN\obj\Debug\MVC.PATTERN.exe
+D:\Latihan\visual studio 2012\public\C# MVC\MVC.PATTERN\obj\Debug\MVC.PATTERN.pdb
